@@ -227,12 +227,6 @@ int main() {
     return 0;
 }
 
-Reflection
-	•	I worked on a project that organized course data.
-	•	I compared data structures like vectors, hash tables, and BSTs.
-	•	I built a simple advising system to show course details and prerequisites.
-	•	I learned each structure has its own strengths and weaknesses.
-	•	I broke the project into small tasks and fixed bugs using sample data.
-	•	I made my code clearer and easier to change.
-	•	I understand the value of planning before coding.
-	•	I feel more confident solving similar problems in the future.
+Reflection:
+
+I worked on a project that organized course data using vectors, hash tables, and binary search trees. I built a simple advising system to display course details and prerequisites, and I learned that each data structure offers its own benefits and challenges. I broke the project into small tasks and fixed bugs with sample data, which helped me improve my code and make it easier to modify. I now see the value of careful planning before coding and feel more confident tackling similar problems in the future.
