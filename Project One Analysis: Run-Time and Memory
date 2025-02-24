@@ -1,0 +1,30 @@
+## Project One Analysis: Run-Time and Memory
+
+**Data Structures**
+
+- **Vector**
+  - **Run-Time:**
+    - Search: O(n) – checking each course.
+    - Sort: O(n log n) – sorting takes extra time.
+    - Add: O(1) – very fast.
+  - **Memory:**
+    - Uses contiguous memory.
+    - Low overhead per element.
+
+- **Hash Table**
+  - **Run-Time:**
+    - Average search: O(1) – fast lookup.
+    - Worst-case search (with collisions): O(n).
+    - Sorting for printing: O(n log n).
+  - **Memory:**
+    - Requires extra space.
+    - Uses linked lists for collision handling.
+
+- **Binary Search Tree (BST)**
+  - **Run-Time:**
+    - Search: O(log n) in balanced trees.
+    - Print (in-order traversal): O(n).
+    - Unbalanced trees may slow operations.
+  - **Memory:**
+    - Uses nodes with pointers.
+    - Extra space for storing pointers.
